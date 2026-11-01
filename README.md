@@ -1,5 +1,7 @@
 # CBSCC
 
+![stack: PHP](https://img.shields.io/badge/stack-PHP-777BB4) ![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6) ![stack: Hack](https://img.shields.io/badge/stack-Hack-555)
+
 A web-based Placement Management System to streamline college placements. Features student dashboards, company profiles, and email notifications. [Not compatible with mobile] Demo: https://pms.free.nf/
 
 ## Overview
